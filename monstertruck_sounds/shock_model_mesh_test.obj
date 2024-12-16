@@ -1,7 +1,6 @@
 # Blender 4.1.1
 # www.blender.org
-mtllib shock_model_mesh_test.mtl
-o minuteria.smd
+o Shocks
 v -0.084894 0.135849 0.300659
 v -0.082269 0.133314 0.300659
 v -0.082269 0.138473 0.300659
